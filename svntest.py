@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+import pandas as pd # tp change try
 import matplotlib.pyplot as plt
 import dataread
 from sklearn import svm
