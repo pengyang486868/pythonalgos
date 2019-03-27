@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../analysisrepos/engine/.idea/engine.iml" filepath="$PROJECT_DIR$/../analysisrepos/engine/.idea/engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../analysisrepos/etl/.idea/etl.iml" filepath="$PROJECT_DIR$/../analysisrepos/etl/.idea/etl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../analysisrepos/olap/.idea/olap.iml" filepath="$PROJECT_DIR$/../analysisrepos/olap/.idea/olap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonalgos.iml" filepath="$PROJECT_DIR$/.idea/pythonalgos.iml" />
     </modules>
   </component>
