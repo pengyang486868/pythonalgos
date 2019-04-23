@@ -4,6 +4,5 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../analysisrepos/etl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../analysisrepos/olap" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../bd/FMAnalysisEngine" vcs="Git" />
   </component>
 </project>
